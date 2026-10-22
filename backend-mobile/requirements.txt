@@ -1,0 +1,7 @@
+   fastapi
+   uvicorn[standard]
+   motor
+   pymongo
+   httpx
+   python-dotenv
+   pydantic
